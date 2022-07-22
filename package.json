@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "tiny-slider": "^2.9.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  },
+  "name": "udemy-4-31",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyChudinov/Udemy-4-31.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyChudinov/Udemy-4-31/issues"
+  },
+  "homepage": "https://github.com/SergeyChudinov/Udemy-4-31#readme"
+}
